@@ -8,6 +8,7 @@ Neural style transfer is an optimization technique used to take three images:
 
 ## Results
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/58219175/97775110-03e67500-1b84-11eb-965b-0da5d1d4d565.jpeg">
+    <img src="https://user-images.githubusercontent.com/58219175/97775110-03e67500-1b84-11eb-965b-0da5d1d4d565.jpeg" width="800">
     <img src="https://user-images.githubusercontent.com/58219175/97775444-aa337a00-1b86-11eb-9be2-3c01ca9cd7c3.jpeg">
+    <img src="https://user-images.githubusercontent.com/58219175/97775513-4cebf880-1b87-11eb-90b5-134f5e3bbce5.jpg" width="740" height="650">
 </p>
